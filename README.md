@@ -1,4 +1,4 @@
-COE 379L: Software Desgin for Responsible Intelligent Systems (Spring 2024)
-===========================================================================
+**CS 480: Machine Learning**
 
-This repo contains the lecture materials for COE 379L. 
+Sourced in part from Joe Stubbs' COE 379L: Software Design for Responsible Intelligent Systems (Spring 2024) at TACC (UT Austin)
+This repo contains the lecture materials for CS 480. 
