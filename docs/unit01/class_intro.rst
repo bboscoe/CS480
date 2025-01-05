@@ -3,31 +3,25 @@ Class Introduction
 
 | **Welcome to:**
 |
-| COE 379L: Software Design For Responsible Intelligent Systems, Spring 2024
-| Department of Aerospace Engineering and Engineering Mechanics
-| The University of Texas at Austin
+| CS 480 Machine learning
+| Southern Oregon University
+| 
 
 
 **Instructors:**
 
-* Joe Stubbs, jstubbs@tacc.utexas.edu, POB 6.436; ACB 2.246 (on Pickle Research Campus) 
-* Anagha Jamthe, ajamthe@tacc.utexas.edu
+* Bernie Boscoe, boscoeb@sou.edu 
 
 
-**Time:** Tues/Thur 2:00pm - 3:30pm
+**Time:** M/W 1:30pm - 3:20pm
 
 
-**Location:** ASE 2.134 A (in person)
-
-
-**Teaching Assistant:** Rohan Potru
+**Location:** PC West (in person)
 
 
 **Important Links:**
 
-* Canvas: https://utexas.instructure.com/courses/1380211
-* Class Repo: https://coe-379l-sp24.readthedocs.io/
-* Slack: https://tacc-learn.slack.com/   #coe-379l-sp24 (channel)
+* Class Repo: https://CS480.readthedocs.io/
 
 
 From the Syllabus 
