@@ -1,9 +1,9 @@
-.. COE 379L: Software Design For Responsible Intelligent Systems, documentation master file, created by
+.. CS 480: Machine Learning, documentation master file, created by
    sphinx-quickstart on Tue Jan 11 21:27:48 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-COE 379L: Software Design For Responsible Intelligent Systems
+CS 480: Machine Learning
 =============================================================
 
 The objective of this course is to introduce students to scalable data analysis and 
@@ -33,9 +33,4 @@ state-of-the-art techniques.
    projects/project04.rst
 
 
-Additional Resources
---------------------
 
-* Slack: https://tacc-learn.slack.com/
-* Class Repo: https://coe-379-sp24.readthedocs.io/
-* Canvas: TBD
