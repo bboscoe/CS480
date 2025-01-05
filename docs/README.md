@@ -1,7 +1,7 @@
-COE 379L: Course Materials
+CS 480: Course Materials
 ===========================
 
-This directory contains the lecture notes for course. They are built with the Sphinx documentation engine.
+This directory contains the lecture notes for the course. They are built with the Sphinx documentation engine.
 
 
 The best way to work on the materials locally is to use the poetry files to create a virtualenv with the dependencies
