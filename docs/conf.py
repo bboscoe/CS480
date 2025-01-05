@@ -18,9 +18,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'COE 379L: Software Design For Responsible Intelligent Systems'
+project = 'CS 480: Machine Learning'
 copyright = '2024, Texas Advanced Computing Center'
-author = 'Texas Advanced Computing Center'
+author = 'forked from Texas Advanced Computing Center, and modified'
 
 
 # -- General configuration ---------------------------------------------------
